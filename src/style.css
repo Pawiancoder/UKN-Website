@@ -1,4 +1,7 @@
 body {
+    background-image: url("./images/unknown.png");
+    background-repeat: no-repeat;
+    background-size: 250px;
     background-color: white;
     color: black;
 }
