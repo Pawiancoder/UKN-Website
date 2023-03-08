@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.mdl-switch__input {
+    margin-top: 20px;
+    margin-left: 20px;
+}
